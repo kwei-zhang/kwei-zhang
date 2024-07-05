@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 I am a dedicated 4th-year Computer Science student at the University of Toronto Scarborough, specializing in Software Engineering. My enthusiasm for low-level and hardware-related programming is complemented by my experience in C and Python. Currently, I am engaged in developing malware detection and networking. My research interests are specifically focused on Network and Security.
 
--   :pencil2: C / React / Rust / Python / React / Haskell...
 
 ---
 
